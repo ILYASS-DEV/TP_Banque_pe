@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <NumeroUser>1</NumeroUser>
+    <NumeroPiece>8754465</NumeroPiece>
+    <TypePiece>Carte d'identité</TypePiece>
+    <NomUser>AIDI</NomUser>
+    <PrenomUser>ILYASS</PrenomUser>
+    <TelephoneUser>6541989</TelephoneUser>
+    <AdresseUser>HAY CHARAF Beni mellal n 10 bloc 1</AdresseUser>
+  </Client>
+  <Client>
+    <NumeroUser>3</NumeroUser>
+    <NumeroPiece>894946</NumeroPiece>
+    <TypePiece>Passeport</TypePiece>
+    <NomUser>AIDI</NomUser>
+    <PrenomUser>test</PrenomUser>
+    <TelephoneUser>0666666</TelephoneUser>
+    <AdresseUser>Hay charaf beni mellal n 10 bloc 1</AdresseUser>
+  </Client>
+</ArrayOfClient>

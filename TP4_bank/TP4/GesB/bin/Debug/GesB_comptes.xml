@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCompteCourant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CompteCourant>
+    <NumeroCompte>1</NumeroCompte>
+    <NumeroUser>1</NumeroUser>
+    <NumeroGuichet>466483</NumeroGuichet>
+    <Solde>800</Solde>
+    <CodeSecret>4586</CodeSecret>
+    <TypeCompte>Compte courant</TypeCompte>
+  </CompteCourant>
+  <CompteCourant xsi:type="CompteBloque">
+    <NumeroCompte>4</NumeroCompte>
+    <NumeroUser>3</NumeroUser>
+    <NumeroGuichet>423</NumeroGuichet>
+    <Solde>700000000</Solde>
+    <CodeSecret>0804</CodeSecret>
+    <TypeCompte>Compte bloqué</TypeCompte>
+    <DateDeblocage>31/05/2021</DateDeblocage>
+  </CompteCourant>
+</ArrayOfCompteCourant>

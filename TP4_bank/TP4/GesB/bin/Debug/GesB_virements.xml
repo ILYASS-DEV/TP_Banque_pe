@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVirementsComptes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VirementsComptes>
+    <NumeroVirement>1</NumeroVirement>
+    <NumeroUser>1</NumeroUser>
+    <NumeroCompte>1</NumeroCompte>
+    <MontantVirement>200</MontantVirement>
+    <DateVirement>30/05/2021</DateVirement>
+    <Destinataire>2</Destinataire>
+    <Automatique>false</Automatique>
+  </VirementsComptes>
+</ArrayOfVirementsComptes>
